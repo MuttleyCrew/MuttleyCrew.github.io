@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(113, 151, 207);
+  }
+  
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 3em;
+    color: white;
+    text-align: center;
+  }
+
+  html {
+    height: 100%;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
